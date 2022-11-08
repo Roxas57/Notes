@@ -1,0 +1,37 @@
+.notes {
+    height: max-content;
+}
+
+#ttl{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+#des{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#del{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#edt{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}

@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "angulartutorial-c6a53"
-  }
+    "default": "angulartutorial-d45f1",
+    "Notea": "angulartutorial-d45f1"
+  },
+  "targets": {},
+  "etags": {}
 }

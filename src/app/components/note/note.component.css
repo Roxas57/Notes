@@ -1,0 +1,29 @@
+#list{
+    display: flex;
+    flex: 50%
+}
+
+#title{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+#description{
+    width: 25%;
+    font-size: 25px;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#buttons{
+    width: 25%;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}

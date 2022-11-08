@@ -10,7 +10,7 @@ import { HttpClient, HttpEventType } from '@angular/common/http';
   styleUrls: ['./about.component.css']
 })
 export class AboutComponent implements OnInit {
-  src = 'https://source.unsplash.com/random';
+  src = './assets/images/Foto.jpg';
   url = 'https://api.kanye.rest/';
   mensaje='';
   constructor(private http: HttpClient) { }
